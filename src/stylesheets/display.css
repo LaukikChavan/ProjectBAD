@@ -1,0 +1,25 @@
+Label{
+	-fx-border-color: black;
+}
+
+.myLabels{
+	-fx-font-size: 25px;
+	-fx-font-weight: bold;
+	-fx-text-fill: #4B0082;
+}
+
+.myUnits{
+	-fx-text-fill : #9932CC;
+}
+
+#myHeader{
+	-fx-background-color: lightblue;
+	-fx-border-color: black;
+	-fx-border-radius: 20px;
+	-fx-background-radius: 20px;
+	-fx-text-fill: #808000;
+}
+
+.myPane{
+	-fx-background-color: #E0FFFF;
+}

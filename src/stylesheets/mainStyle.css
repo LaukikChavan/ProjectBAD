@@ -1,0 +1,66 @@
+*{
+	-fx-background-color: #E0FFFF;
+}
+
+.myLabels{
+	-fx-font-size: 25px;
+	-fx-font-weight: bold;
+	-fx-text-fill: #4B0082;
+}
+
+.myUnits{
+	-fx-text-fill : #9932CC;
+}
+
+.myTextFields{
+	-fx-background-color: white;
+}
+
+#myHeader{
+	-fx-background-color: lightblue;
+	-fx-border-color: black;
+	-fx-border-radius: 20px;
+	-fx-background-radius: 20px;
+	-fx-text-fill: #808000;
+}
+
+.ToggleBtn{
+	-fx-background-color: lightgrey;
+	-fx-border-radius: 20px;
+	-fx-border-color: black;
+}
+
+#calculateBtn{
+	-fx-backgroung-color: #5F9EA0;
+	-fx-border-radius: 30px;
+	-fx-background-radius: 30px;
+	-fx-border-color: black;
+}
+
+#calculateBtn:hover{
+	-fx-background-color: #008B8B;
+}
+
+
+#calculateBtn:click{
+	-fx-background-color: #008080;
+}
+
+.spilt-pane{
+	-fx-border-color: transparent;
+}
+
+.text-field {
+	-fx-border-radius: 30px;
+	-fx-border-color: blue;
+    -fx-focus-color: blue;
+    -fx-faint-focus-color: #ff000022;
+}
+
+.toggle-button{
+    -fx-background-color: #ccc;	
+}
+
+.toggle-button:selected {
+    -fx-background-color: #00FF00;
+}
